@@ -7,7 +7,10 @@
     <img  style="width: 43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=gruvbox&layout=compact" alt="Tang's stats card"/>
 </div>
 
+<hr/>
+
+<img src="https://api.star-history.com/svg?repos=Developer-Tang/Developer-Tang&type=Date" alt="Repo star history">
 
 <hr/>
 
-<img  style="display: none" src="https://api.star-history.com/svg?repos=Developer-Tang/Developer-Tang&type=Date" alt="Repo star history">
+<img src="https://moe-counter.glitch.me/get/@Developer-Tang.github.readme" alt="Views count">
