@@ -2,10 +2,11 @@
 
 <hr/>
 
-<div> 
-<img style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=Developer-Tang&show_icons=true&theme=gruvbox" alt="Tang's stats card"/>
-<img style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=gruvbox&layout=compact" alt="Tang's stats card"/>
+<div>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Developer-Tang&show_icons=true&theme=gruvbox" alt="Tang's stats card"/>
+    <img  style="width: 35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=gruvbox&layout=compact" alt="Tang's stats card"/>
 </div>
+
 
 <hr/>
 
