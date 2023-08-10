@@ -9,7 +9,7 @@
 
 <hr/>
 
-<img src="https://star-history.com/#Developer-Tang/Developer-Tang&Date" alt="Repo star history">
+<img src="https://api.star-history.com/svg?repos=Developer-Tang/Developer-Tang&type=Date" alt="Repo star history">
 
 <hr/>
 
