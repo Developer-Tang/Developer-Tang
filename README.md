@@ -3,8 +3,8 @@
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Github commit logs"/>
 
 <div>
-    <img  style="height: 250px" src="https://github-readme-stats.vercel.app/api?username=Developer-Tang&show_icons=true&theme=gruvbox" alt="Tang's stats card"/>
-    <img  style="height: 250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Tang&theme=gruvbox&layout=donut" alt="Tang's stats card"/>
+    <img  style="width: 59%" src="https://github-readme-stats.vercel.app/api?username=Developer-Tang&show_icons=true&theme=gruvbox" alt="Tang's stats card"/>
+    <img  style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Tang&theme=gruvbox&layout=donut" alt="Tang's stats card"/>
 </div>
 
 <hr/>
