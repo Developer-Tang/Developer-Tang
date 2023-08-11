@@ -1,15 +1,25 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1200&lines=Hi+there+👋,+I+am+Tang+ShaoHui;+Welcome+to+My+Profile!" alt="Welcome messages">
+<a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1200&lines=Hi+there+👋,+I+am+Tang+ShaoHui;+Welcome+to+My+Profile!" alt="Welcome messages">
+</a>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Github commit logs"/>
+<a href="#">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Github commit logs"/>
+</a>
 
 <div>
-    <img  style="width: 59%" src="https://github-readme-stats.vercel.app/api?username=Developer-Tang&show_icons=true&theme=gruvbox" alt="Tang's stats card"/>
-    <img  style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Tang&theme=gruvbox&layout=donut" alt="Tang's stats card"/>
+    <a href="#">
+        <img style="width: 59%" src="https://github-readme-stats.vercel.app/api?username=Developer-Tang&show_icons=true&theme=gruvbox" alt="Tang's stats card"/>
+    </a>
+    <a href="#">
+        <img style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Tang&theme=gruvbox&layout=donut" alt="Tang's stats card"/>
+    </a>
 </div>
 
 <hr/>
 
-<img style="width: 100%" src="https://api.star-history.com/svg?repos=Developer-Tang/Developer-Tang&type=Date" alt="Repo star history">
+<a href="#">
+    <img style="width: 100%" src="https://api.star-history.com/svg?repos=Developer-Tang/Developer-Tang&type=Date" alt="Repo star history">
+</a>
 
 <br/>
 
