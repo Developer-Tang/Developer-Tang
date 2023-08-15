@@ -17,12 +17,6 @@
 
 <hr/>
 
-<a href="#">
-    <img style="width: 100%" src="https://api.star-history.com/svg?repos=Developer-Tang/Developer-Tang&type=Date" alt="Repo star history">
-</a>
-
-<br/>
-
 <div style="text-align: center">
     <a href="https://github.com/Developer-Tang/Developer-Tang/graphs/contributors"><img src="https://img.shields.io/github/contributors/Developer-Tang/Developer-Tang?color=blue"></a>
     <a href="https://github.com/Developer-Tang/Developer-Tang/stargazers"><img src="https://img.shields.io/github/stars/Developer-Tang/Developer-Tang?logo=github"></a>
