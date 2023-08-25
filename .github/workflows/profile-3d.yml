@@ -12,6 +12,7 @@ jobs:
     permissions:
       actions: write
       contents: write
+      id-token: read
       repository-projects: read
     steps:
       - uses: actions/checkout@v2
