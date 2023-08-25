@@ -5,7 +5,10 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions: read-all
+permissions: 
+  actions: write
+  contents: contents
+  repository-projects: read
   
 jobs:
   build:
