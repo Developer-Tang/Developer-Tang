@@ -1,5 +1,5 @@
 <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1200&lines=Hi+there+👋,+I+am+Tang+ShaoHui;+Welcome+to+My+Profile!" alt="Welcome messages">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1200&lines=Hi+there+👋,+I+am+ShaoHui+Tang;+Welcome+to+My+Profile!" alt="Welcome messages">
 </a>
 
 <a href="#">
@@ -26,4 +26,4 @@
 
 <br/>
 
-> The last: I referred to the Profile referred by [**BEPb**](https://github.com/BEPb), and here I express my gratitude.
+> Finally, I referred to [**BEPb**](https://github.com/BEPb)'s personal homepage and would like to express my gratitude here
